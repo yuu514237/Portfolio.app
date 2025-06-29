@@ -31,4 +31,5 @@ next.jsとsupabaseを用いた子供向けの脳トレ学習アプリです
 - **認証・データベース**: Supabase
 - **状態管理**: React Hooks
 - **アイコン**: Lucide React
+## サイトイメージ
 
