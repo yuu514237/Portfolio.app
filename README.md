@@ -36,4 +36,4 @@ next.jsとsupabaseを用いた子供向けの脳トレ学習アプリです
 
 ## サイトURL
 https://nohtorepark-dzkt.vercel.app/
-開いてすぐにゲームのプレイができます。
+ゲームをするで名前を入力後プレイできます。
