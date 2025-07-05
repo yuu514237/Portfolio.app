@@ -37,3 +37,22 @@ next.jsとsupabaseを用いた子供向けの脳トレ学習アプリです
 ## サイトURL
 https://nohtorepark-dzkt.vercel.app/
 ゲームをするで名前を入力後プレイできます。
+
+## テスト・修正の設計及び実施書
+[テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1ph7XaLu4a2k_kDBEpj_ySTBPETJvg5143ZMk5G90DUA/edit?usp=sharing)
+
+## アプリの改善案
+[アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1fgynpBKhx8zaNkMweeYVQl52bP6Z8dJZOmmY8MHXjQM/edit?usp=sharing)
+
+## 備考
+[ESLintの実行結果_GitHub Actions](https://github.com/aihat9161/PortfolioExample_Next.js_BlogAppWorX_ENGINEER-CLASS/actions/runs/14956271682/job/42012343864)
+
+- 活用した生成AIとその用途
+  - ChatGPT：要件定義、設計、各種リサーチ
+  - v0：アプリのモック作成
+  - GitHub Copilot Chat：ローカル環境でのコードの修正相談
+
+- リファクタリングの規則
+  - 2つ以上のファイルで使う、行数が10以上のUIコンポーネントはcomponentsフォルダに移行
+  - 2つ以上のファイルで使う、行数が10以上の関数はlibフォルダに移行
+  - 変数名で2つ以上の単語が入る場合は、「isPublished」のように二つ目以降の単語の頭を大文字とする
