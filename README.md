@@ -39,7 +39,7 @@ https://nohtorepark-dzkt.vercel.app/
 ゲームをするで名前を入力後プレイできます。
 
 ## テスト・修正の設計及び実施書
-[テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1ph7XaLu4a2k_kDBEpj_ySTBPETJvg5143ZMk5G90DUA/edit?usp=sharing)
+[テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1M5PGvZxDn89s-5gzZsdEHGBBvJ_5vMpliRRB3FvDKl8/edit?gid=0#gid=0)
 
 ## アプリの改善案
 [アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1fgynpBKhx8zaNkMweeYVQl52bP6Z8dJZOmmY8MHXjQM/edit?usp=sharing)
