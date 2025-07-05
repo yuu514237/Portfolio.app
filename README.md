@@ -42,7 +42,7 @@ https://nohtorepark-dzkt.vercel.app/
 [テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1M5PGvZxDn89s-5gzZsdEHGBBvJ_5vMpliRRB3FvDKl8/edit?gid=0#gid=0)
 
 ## アプリの改善案
-[アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1fgynpBKhx8zaNkMweeYVQl52bP6Z8dJZOmmY8MHXjQM/edit?usp=sharing)
+[アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1M5PGvZxDn89s-5gzZsdEHGBBvJ_5vMpliRRB3FvDKl8/edit?gid=1797697990#gid=1797697990)
 
 ## 備考
 [ESLintの実行結果_GitHub Actions](https://github.com/aihat9161/PortfolioExample_Next.js_BlogAppWorX_ENGINEER-CLASS/actions/runs/14956271682/job/42012343864)
