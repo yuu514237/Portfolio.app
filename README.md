@@ -35,5 +35,5 @@ next.jsとsupabaseを用いた子供向けの脳トレ学習アプリです
 ![アプリ画面](https://github.com/yuu514237/sanple_app/blob/3ba46f33fb3d06ce4058684dfe87e3e6e0cf67fc/docs/%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E7%94%BB%E5%83%8F.png?raw=true)
 
 ## サイトURL
-https://noutoreppark.vercel.app/
+https://nohtorepark-dzkt.vercel.app/
 開いてすぐにゲームのプレイができます。
