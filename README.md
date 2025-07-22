@@ -36,7 +36,7 @@ next.jsとsupabaseを用いた子供向けの脳トレ学習アプリです
 
 ## サイトURL
 https://nouhtorepark.vercel.app/
-クリックした際にすぐプレイできます。
+クリックした際にゲームからログインでプレイできます。
 
 ## テスト・修正の設計及び実施書
 [テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/15lvwNgZGkXOrj8A2TAwUYORXJMHzhPp-9_pxdnRqbNs/edit?gid=0#gid=0)
